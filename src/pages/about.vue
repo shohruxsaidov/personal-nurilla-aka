@@ -52,9 +52,8 @@
                                                                                  data-bg-effect-name=""
                                                                                  data-has-ssr-src=""
                                                                                  data-src="https://static.wixstatic.com/media/11062b_7019847b82d44a0e87ec51bd7f598338~mv2.jpg/v1/crop/x_883,y_0,w_3335,h_3335/fill/w_400,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Financial%20Advisor.jpg">
-                                                                                <img src="https://static.wixstatic.com/media/11062b_7019847b82d44a0e87ec51bd7f598338~mv2.jpg/v1/crop/x_883,y_0,w_3335,h_3335/fill/w_400,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Financial%20Advisor.jpg"
+                                                                                <img src="../assets/financial.webp"
                                                                                      alt="Financial Advisor"
-                                                                                     srcset="https://static.wixstatic.com/media/11062b_7019847b82d44a0e87ec51bd7f598338~mv2.jpg/v1/crop/x_883,y_0,w_3335,h_3335/fill/w_400,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Financial%20Advisor.jpg"
                                                                                      fetchpriority="high"
                                                                                      style="width: 200px; height: 200px; object-fit: cover;">
                                                                             </div>
@@ -124,12 +123,9 @@
                                                                                  class="HlRz5e lDHlrQ"
                                                                                  data-image-info="{&quot;containerId&quot;:&quot;comp-lgl3wyou&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:200,&quot;targetHeight&quot;:200,&quot;isLQIP&quot;:false,&quot;imageData&quot;:{&quot;width&quot;:6000,&quot;height&quot;:4000,&quot;uri&quot;:&quot;11062b_024d88fe90394b0b91fc03a468114df5~mv2.jpeg&quot;,&quot;name&quot;:&quot;A couple at a business meeting&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;crop&quot;:{&quot;x&quot;:342,&quot;y&quot;:0,&quot;width&quot;:5212,&quot;height&quot;:4000}}}"
                                                                                  data-bg-effect-name=""
-                                                                                 data-has-ssr-src=""
-                                                                                 data-src="https://static.wixstatic.com/media/11062b_024d88fe90394b0b91fc03a468114df5~mv2.jpeg/v1/crop/x_342,y_0,w_5212,h_4000/fill/w_400,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/A%20couple%20at%20a%20business%20meeting.jpeg">
-                                                                                <img src="https://static.wixstatic.com/media/11062b_024d88fe90394b0b91fc03a468114df5~mv2.jpeg/v1/crop/x_342,y_0,w_5212,h_4000/fill/w_400,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/A%20couple%20at%20a%20business%20meeting.jpeg"
+                                                                                 data-has-ssr-src="">
+                                                                                <img src="../assets/business-meeting.webp"
                                                                                      alt="A couple at a business meeting"
-                                                                                     srcset="https://static.wixstatic.com/media/11062b_024d88fe90394b0b91fc03a468114df5~mv2.jpeg/v1/crop/x_342,y_0,w_5212,h_4000/fill/w_400,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/A%20couple%20at%20a%20business%20meeting.jpeg"
-                                                                                     fetchpriority="high"
                                                                                      style="width: 200px; height: 200px; object-fit: cover;">
                                                                             </div>
                                                                         </div>
@@ -158,9 +154,8 @@
                                                                                  class="HlRz5e lDHlrQ"
                                                                                  data-image-info="{&quot;containerId&quot;:&quot;comp-lgl3wyox1&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:200,&quot;targetHeight&quot;:200,&quot;isLQIP&quot;:true,&quot;imageData&quot;:{&quot;width&quot;:5000,&quot;height&quot;:3335,&quot;uri&quot;:&quot;11062b_58c93c3cc0254845a5b17f52732256d0~mv2.jpg&quot;,&quot;name&quot;:&quot;Accountant at Work&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;crop&quot;:{&quot;x&quot;:1108,&quot;y&quot;:0,&quot;width&quot;:3335,&quot;height&quot;:3335}}}"
                                                                                  data-bg-effect-name=""
-                                                                                 data-has-ssr-src=""
-                                                                                 data-src="https://static.wixstatic.com/media/11062b_58c93c3cc0254845a5b17f52732256d0~mv2.jpg/v1/crop/x_1108,y_0,w_3335,h_3335/fill/w_400,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Accountant%20at%20Work.jpg">
-                                                                                <img src="https://static.wixstatic.com/media/11062b_58c93c3cc0254845a5b17f52732256d0~mv2.jpg/v1/crop/x_1108,y_0,w_3335,h_3335/fill/w_400,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Accountant%20at%20Work.jpg"
+                                                                                 data-has-ssr-src="">
+                                                                                <img src="../assets/accountant.webp"
                                                                                      alt="Accountant at Work"
                                                                                      fetchpriority="high"
                                                                                      style="width: 200px; height: 200px; object-fit: cover; object-position: 50% 50%;">

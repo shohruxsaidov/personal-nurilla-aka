@@ -67,7 +67,7 @@
                                                                                          class="LWbAav Kv1aVt"></div>
                                                                                     <div id="bgMedia_comp-lgl3wiil1"
                                                                                          class="VgO9Yg">
-                                                                                            <img src="https://static.wixstatic.com/media/11062b_024d88fe90394b0b91fc03a468114df5~mv2.jpeg/v1/crop/x_0,y_595,w_6000,h_2808/fill/w_1880,h_880,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/A%20couple%20at%20a%20business%20meeting.jpeg"
+                                                                                            <img src="../assets/business-meeting.webp"
                                                                                                  alt="A couple at a business meeting"
                                                                                                  style="width:100%;height:100%;object-fit:cover;object-position:48% 0%"/>
                                                                                     </div>
@@ -165,10 +165,9 @@
                                                                              class="mGoGm2">
 
                                                                                 <img
-                                                                                        src="https://static.wixstatic.com/media/11062b_c1d1cbd7d4c44b57b3919153f31d2e96~mv2.jpeg/v1/fill/w_200,h_200,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Financial%20District.jpeg"
+                                                                                        src="../assets/financial-district.webp"
                                                                                         alt="Financial District"
                                                                                         style="width:200px;height:200px;object-fit:cover"
-                                                                                        srcSet="https://static.wixstatic.com/media/11062b_c1d1cbd7d4c44b57b3919153f31d2e96~mv2.jpeg/v1/fill/w_200,h_200,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Financial%20District.jpeg 1x, https://static.wixstatic.com/media/11062b_c1d1cbd7d4c44b57b3919153f31d2e96~mv2.jpeg/v1/fill/w_400,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Financial%20District.jpeg 2x"
                                                                                         fetchpriority="high"/>
                                                                         </div>
                                                                     </div>
@@ -309,7 +308,7 @@
                                                                                           data-image-info="{&quot;containerId&quot;:&quot;comp-lgl3wiis2&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:475,&quot;targetHeight&quot;:611,&quot;isLQIP&quot;:true,&quot;imageData&quot;:{&quot;width&quot;:5000,&quot;height&quot;:3335,&quot;uri&quot;:&quot;11062b_58c93c3cc0254845a5b17f52732256d0~mv2.jpg&quot;,&quot;name&quot;:&quot;&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;focalPoint&quot;:{&quot;x&quot;:55,&quot;y&quot;:26}}}"
                                                                                           data-bg-effect-name=""
                                                                                           data-has-ssr-src="true">
-                                                                                            <img src="https://static.wixstatic.com/media/11062b_c1d1cbd7d4c44b57b3919153f31d2e96~mv2.jpeg/v1/fill/w_1322,h_1222,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_c1d1cbd7d4c44b57b3919153f31d2e96~mv2.jpeg"
+                                                                                            <img src="../assets/district.webp"
                                                                                                  alt="Financial District"
                                                                                                  style="width:100%;height:100%;object-fit:cover;object-position:50% 50%"/>
                                                                                         </wow-image>
@@ -354,7 +353,7 @@
                                                                                                 data-image-info="{&quot;containerId&quot;:&quot;comp-lgl3wiis2&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:475,&quot;targetHeight&quot;:611,&quot;isLQIP&quot;:true,&quot;imageData&quot;:{&quot;width&quot;:5000,&quot;height&quot;:3335,&quot;uri&quot;:&quot;11062b_58c93c3cc0254845a5b17f52732256d0~mv2.jpg&quot;,&quot;name&quot;:&quot;&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;focalPoint&quot;:{&quot;x&quot;:55,&quot;y&quot;:26}}}"
                                                                                                 data-bg-effect-name=""
                                                                                                 data-has-ssr-src="true">
-                                                                                            <img src="https://static.wixstatic.com/media/11062b_58c93c3cc0254845a5b17f52732256d0~mv2.jpg/v1/fill/w_1352,h_876,fp_0.55_0.26,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_58c93c3cc0254845a5b17f52732256d0~mv2.jpg"
+                                                                                            <img src="../assets/accountant.webp"
                                                                                                  alt="Accountant at Work"
                                                                                                  style="width:100%;height:100%;object-fit:cover;object-position:60% 0%"/>
                                                                                         </wow-image>
@@ -460,7 +459,7 @@
                                                                          class="MazNVa comp-lgl3wiiv1 wixui-image">
                                                                         <div data-testid="linkElement"
                                                                              class="j7pOnl">
-                                                                                <img src="https://static.wixstatic.com/media/11062b_024d88fe90394b0b91fc03a468114df5~mv2.jpeg/v1/fill/w_1352,h_1320,fp_0.49_0.50,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_024d88fe90394b0b91fc03a468114df5~mv2.jpeg"
+                                                                                <img src="../assets/business-meeting.webp"
                                                                                      alt="A couple at a business meeting"
                                                                                      style="width:100%;height:100%;object-fit:cover;object-position:50% 50%"/>
                                                                         </div>
@@ -493,7 +492,7 @@
                                                                                     data-image-info="{&quot;containerId&quot;:&quot;comp-lgl3wiix&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:940,&quot;targetHeight&quot;:440,&quot;isLQIP&quot;:true,&quot;imageData&quot;:{&quot;width&quot;:6720,&quot;height&quot;:4480,&quot;uri&quot;:&quot;11062b_e825515c93d94aa1af5b8bdd492155f9~mv2.jpeg&quot;,&quot;name&quot;:&quot;A business meeting&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;crop&quot;:{&quot;x&quot;:0,&quot;y&quot;:125,&quot;width&quot;:6720,&quot;height&quot;:3145}}}"
                                                                                     data-bg-effect-name=""
                                                                                     data-has-ssr-src="true">
-                                                                                <img src="https://static.wixstatic.com/media/11062b_e825515c93d94aa1af5b8bdd492155f9~mv2.jpeg/v1/crop/x_0,y_125,w_6720,h_3145/fill/w_1880,h_880,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/A%20business%20meeting.jpeg"
+                                                                                <img src="../assets/business.webp"
                                                                                      alt="A business meeting"
                                                                                      style="width:100%;height:100%;object-fit:cover;object-position:50% 50%"/>
                                                                             </wow-image>
@@ -521,7 +520,7 @@
                                                                          class="MazNVa comp-lgl3wiiz1 wixui-image">
                                                                         <div data-testid="linkElement"
                                                                              class="j7pOnl">
-                                                                                <img src="https://static.wixstatic.com/media/11062b_c1d1cbd7d4c44b57b3919153f31d2e96~mv2.jpeg/v1/fill/w_1322,h_1222,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_c1d1cbd7d4c44b57b3919153f31d2e96~mv2.jpeg"
+                                                                                <img src="../assets/district.webp"
                                                                                      alt="Financial District"
                                                                                      style="width:100%;height:100%;object-fit:cover;object-position:50% 50%"/>
                                                                         </div>
@@ -660,7 +659,7 @@
                                                                                          class="LWbAav Kv1aVt"></div>
                                                                                     <div id="bgMedia_comp-lgl3wij4"
                                                                                          class="VgO9Yg">
-                                                                                            <img src="https://static.wixstatic.com/media/11062b_58c93c3cc0254845a5b17f52732256d0~mv2.jpg/v1/fill/w_1352,h_876,fp_0.55_0.26,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_58c93c3cc0254845a5b17f52732256d0~mv2.jpg"
+                                                                                            <img src="../assets/accountant.webp"
                                                                                                  alt="Accountant at Work"
                                                                                                  style="width:100%;height:100%;object-fit:cover;object-position:69% 0%"/>
                                                                                     </div>
